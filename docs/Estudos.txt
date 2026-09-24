@@ -1,0 +1,26 @@
+OBS: O presente arquivo visa servir como material de estudo e revisão do conteúdo de Javascript, 
+então no processo de produção pode ser que haja erros durante a produção.
+
+1 - Javascript ( A base histórica )
+
+-> Javascript é uma linguagem voltada não apenas para desenvolvimento web, ela é uma linguagem de próposito geral
+na qual dentre suas capacidades há a possibilidade de alterar páginas html perimitindo alteração sem comunicação direta 
+com o servidor facilitando e acelerando as respostas, por isso ela é uma linguagem "front-end", pois roda na máquina 
+do usuário. 
+->  Script x Compilada: A diferença brutal é que a compilada é traduzida num código binário para que a máquina leia, assim
+o processo de atualização é 'demorado', pois o código-fonte precisa ser novamente compilado, no script não, então o 
+processo de atualização é mais rápido.
+-> JS é uma linguagem dinâmica ( as váriaveis não são de um tipo fixo, não precisam ser declaradas os tipos), server-client ( na 
+qual a comunicação é realizada na máquina do usuário) e segura( ela possui regras para evitar que os dados da máquina do
+usuário sejam vazados). 
+
+As principais limitações do JavaScript para garantia de segurança são a
+proibição de:
+• Abrir e ler arquivos diretamente da máquina do usuario
+• Criar arquivos no computador do usuário (exceto cookies)
+• Ler configurações do sistema do usuario
+• Acessar o hardware do cliente
+• Iniciar outros programas
+• Modificar o valor de um campo de formulário do tipo <input>
+
+-> 
