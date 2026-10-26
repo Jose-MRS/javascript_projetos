@@ -39,3 +39,16 @@ let num9 = 7, num10= "8"
 
 console.log(typeof num9)
 console.log(typeof num10)
+
+
+// Estruturas de Repetição
+
+
+for (let i = 0; i < 10; i++) {
+    console.log(i)
+}
+
+while (num9 <10){
+    console.log(num9)
+    num9++
+}
